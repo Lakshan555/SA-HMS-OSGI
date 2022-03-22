@@ -1,0 +1,11 @@
+package employeeproducer;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	@Override
+	public void displayEmployees() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
