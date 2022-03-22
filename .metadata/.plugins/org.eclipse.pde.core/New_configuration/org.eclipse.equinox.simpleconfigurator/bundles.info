@@ -1,5 +1,7 @@
 #encoding=UTF-8
 #version=1
+DepartmentConsumer,1.0.0.qualifier,file:/D:/Projects/JAVA5/DepartmentConsumer/,4,true
+DepartmentProducer,1.0.0.qualifier,file:/D:/Projects/JAVA5/DepartmentProducer/,4,true
 EmployeeConsumer,1.0.0.qualifier,file:/D:/Projects/JAVA5/EmployeeConsumer/,4,true
 EmployeeProducer,1.0.0.qualifier,file:/D:/Projects/JAVA5/EmployeeProducer/,4,true
 PatientConsumer,1.0.0.qualifier,file:/D:/Projects/JAVA5/PatientConsumer/,4,true

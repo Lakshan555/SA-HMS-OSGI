@@ -1008,8 +1008,12 @@
         <setEntry value="org.yaml.snakeyaml@default:default"/>
     </setAttribute>
     <setAttribute key="selected_workspace_bundles">
+        <setEntry value="DepartmentConsumer@default:default"/>
+        <setEntry value="DepartmentProducer@default:default"/>
         <setEntry value="EmployeeConsumer@default:default"/>
         <setEntry value="EmployeeProducer@default:default"/>
+        <setEntry value="MedicineConsumer@default:default"/>
+        <setEntry value="MedicineProducer@default:default"/>
         <setEntry value="PatientConsumer@default:default"/>
         <setEntry value="PatientProducer@default:default"/>
     </setAttribute>
