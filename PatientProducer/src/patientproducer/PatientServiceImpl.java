@@ -31,7 +31,7 @@ public class PatientServiceImpl implements PatientService {
 		System.out.println("| PID  | FisrtName | LastName |  MobileNo  |     Email\t\t  |");
 		
 		for (Patient patient : patientDetails) {
-			System.out.println("  " +patient.getpID()+ "  " +patient.getFisrtName() + "\t" +patient.getLastName()+ "   " +patient.getMobile()+ "   " +patient.getEmail());
+			System.out.println("  " +patient.getpID()+ "  " +patient.getFisrtName() + "\t\t" +patient.getLastName()+ "   " +patient.getMobile()+ "   " +patient.getEmail());
 		}
 	
 	}

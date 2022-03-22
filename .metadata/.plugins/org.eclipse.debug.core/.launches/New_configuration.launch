@@ -1008,7 +1008,10 @@
         <setEntry value="org.yaml.snakeyaml@default:default"/>
     </setAttribute>
     <setAttribute key="selected_workspace_bundles">
+        <setEntry value="EmployeeConsumer@default:default"/>
         <setEntry value="EmployeeProducer@default:default"/>
+        <setEntry value="PatientConsumer@default:default"/>
+        <setEntry value="PatientProducer@default:default"/>
     </setAttribute>
     <booleanAttribute key="show_selected_only" value="false"/>
     <booleanAttribute key="tracing" value="false"/>
